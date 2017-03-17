@@ -1,0 +1,19 @@
+{
+  "name": "show-boat",
+  "version": "1.0.0",
+  "description": "Web utility for finding a local show, buying tickets and calling an uber to the show.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peteoa12/show-boat.git"
+  },
+  "author": "Peter Norman peternormandev@gmail.com  peternormandev.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peteoa12/show-boat/issues"
+  },
+  "homepage": "https://github.com/peteoa12/show-boat#readme"
+}
